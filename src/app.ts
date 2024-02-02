@@ -1,4 +1,4 @@
-import { yarg } from "./config/plugins/yards.plugin";
+import { yarg } from "./config/plugins/args.plugin";
 import { ServerApp } from "./presentation/server-app";
 
 //console.log(yarg)

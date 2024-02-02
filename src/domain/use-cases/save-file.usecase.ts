@@ -12,9 +12,7 @@ export interface Options {
 }
 
 export class SaveFile implements SaveFileUseCase{
-    constructor(){
-
-    };
+    constructor(){};
 
     execute({
         fileContent, 

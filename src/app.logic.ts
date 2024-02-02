@@ -1,5 +1,5 @@
 import fs from 'fs';
-import { yarg } from './config/plugins/yards.plugin';
+import { yarg } from './config/plugins/args.plugin';
 
 //*Renombrar las variables en la destructuracion de javascript
 const { b:bases, l:limit, s:showTable } = yarg;

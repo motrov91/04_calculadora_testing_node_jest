@@ -1,6 +1,6 @@
 {
   "exclude": ["node_modules","**/*.spec.ts","**/*.test.ts"],
-  "include": ["src/**/*"],
+  "include": ["src/**/*", "test/domain/use-cases"],
   "compilerOptions": {
     /* Visit https://aka.ms/tsconfig to read more about this file */
 
